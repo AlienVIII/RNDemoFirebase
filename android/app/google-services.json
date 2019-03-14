@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "649979893980",
+    "firebase_url": "https://testpopdeem.firebaseio.com",
+    "project_id": "testpopdeem",
+    "storage_bucket": "testpopdeem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649979893980:android:aab3615eee92c8a9",
+        "android_client_info": {
+          "package_name": "com.demofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649979893980-80f9mr2f6c5a27jbohdhl8lh5019c3vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJDpbA7Hp1cIuRIzfIpQAeV_5ztmcAcKU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
